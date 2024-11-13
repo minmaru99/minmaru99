@@ -1,6 +1,6 @@
 ## Hi there 👋
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&color=443EF7&background=30FFBE00&center=true&width=435&lines=Minha's+Github!+%3A)+)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
