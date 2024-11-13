@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=443EF7&background=30FFBE00&center=true&width=435&lines=Minha's+Github!+%F0%9F%8D%AB%F0%9F%A5%AD%F0%9F%8D%81)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
+![](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
 
 Here are some ideas to get you started:
 
