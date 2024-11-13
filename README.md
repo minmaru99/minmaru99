@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&color=443EF7&background=30FFBE00&center=true&width=435&lines=Minha's+Github!+%3A))
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&color=443EF7&background=30FFBE00&center=true&width=435&lines=Minha's+Github!+%3A)
 
 Here are some ideas to get you started:
 
