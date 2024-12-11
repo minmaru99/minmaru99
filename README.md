@@ -1,4 +1,4 @@
-## Hi there .•♡ᖰ🐹ᖳ♡•. 🤚🏻
+## Listening to .•♡ᖰ🐹ᖳ♡•. 🎶🎸
 
 [//]: # (![Typing SVG]&#40;https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=443EF7&background=30FFBE00&center=true&width=435&lines=Minha's+Github!+%F0%9F%8D%AB%F0%9F%A5%AD%F0%9F%8D%81&#41;)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&pause=1000&color=000573&background=00FF8F0B&width=435&lines=Minha's+Github!+%F0%9F%8D%AB%F0%9F%A5%AD%F0%9F%8D%81)](https://git.io/typing-svg)
@@ -11,6 +11,7 @@
   height="300"
 />
 </a>
+
 
 [//]: # (Here are some ideas to get you started:)
 
