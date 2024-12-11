@@ -1,7 +1,16 @@
 ## Hi there 👋
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{minmaru99}?pet-id=1" width="1000" height="120"/>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/minmaru99"
+  width="600"
+  height="300"
+/>
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
 </a>
 
 [//]: # (![Typing SVG]&#40;https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=443EF7&background=30FFBE00&center=true&width=435&lines=Minha's+Github!+%F0%9F%8D%AB%F0%9F%A5%AD%F0%9F%8D%81&#41;)
