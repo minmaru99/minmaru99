@@ -14,11 +14,13 @@
 </a>
 
 <br>
-Here are some ideas to get you started:
+
+[//]: # (Here are some ideas to get you started:)
 
 [//]: # (- 🔭 I’m currently working on ...)
 - 🌱 I’m currently learning ...
-![python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white)   ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+[//]: # (![python]&#40;https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&#41;   ![html]&#40;https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&#41; ![css]&#40;https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&#41; ![c]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41; ![c++]&#40;https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&#41; )
 
 
 [//]: # (- 👯 I’m looking to collaborate on ...)
@@ -35,7 +37,23 @@ Here are some ideas to get you started:
 
 [//]: # (-->)
 
-<br>
+<span>
+    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/C++-green?style=plastic&logo=C%2B%2B&logoColor=white" alt="C++ Badge"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
+</span>
+
+
 <div align="left">
 <!-- My profile -->
 <span>
