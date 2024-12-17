@@ -6,16 +6,15 @@
 <br><br>
 ## 🐼 Introduction
 
-🎓 **Major**
+🎓 **Major ...**
 - Automobile and IT Convergence 🚗
 
 💙 **Current Interests ...**
-<br>
 - Data Visualization
 - Machine Learning & Deep Learning
 
 [//]: # (<br>)
-🛠 **My Skills** ...
+🛠 **My Skills ...**
 <br>
 <span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
@@ -27,7 +26,7 @@
     <img src="https://img.shields.io/badge/C++-green?style=plastic&logo=C%2B%2B&logoColor=white" alt="C++ Badge"/>
 </span>
 
-🌱 **Currently Learning...**
+🌱 **Learning...**
 <br>
 <span>
     <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
