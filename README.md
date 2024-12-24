@@ -30,11 +30,7 @@
 <br>
 <span>
     <img src="https://img.shields.io/badge/Mysql-FF00FF?style=plastic&logo=mysql&logoColor=white"/>
-<br>
     <img src="https://img.shields.io/badge/ Matlab-A9F5A9?style=plastic"/>
-<br>
-</span>
-<span>
     <img src="https://img.shields.io/badge/ HTML-F4FA58?style=plastic&logo=HTML5&logoColor=white"/>
 </span>
 
