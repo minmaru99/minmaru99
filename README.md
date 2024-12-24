@@ -20,19 +20,22 @@
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ C language-BE81F7?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/C++-green?style=plastic&logo=C%2B%2B&logoColor=white" alt="C++ Badge"/>
+    <img src="https://img.shields.io/badge/C++-01DF3A?style=plastic&logo=C%2B%2B&logoColor=white" alt="C++ Badge"/>
 </span>
 
 🌱 **Learning...**
 <br>
 <span>
-    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
+    <img src="https://img.shields.io/badge/Mysql-FF00FF?style=plastic&logo=mysql&logoColor=white"/>
+<br>
+    <img src="https://img.shields.io/badge/ Matlab-A9F5A9?style=plastic"/>
+<br>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ HTML-F4FA58?style=plastic&logo=HTML5&logoColor=white"/>
 </span>
 
 [//]: # (<br>)
